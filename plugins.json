@@ -315,6 +315,14 @@
 			"desc": "Protects loot dropped upon death",
 			"jarName": "LootProtect.jar",
 			"configName": "LootProtect"
+		},
+		{
+			"name": "Pet Blocks"
+			"desc": "Gives players fun little Pet blocks around the server as they go"
+			"jarName": "PetBlocks-Bukkit.jar",
+			"configName" "PetBlocks"
+			
+			
 		}
 	]
 }

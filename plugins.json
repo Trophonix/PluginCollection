@@ -315,6 +315,10 @@
 			"desc": "Protects loot dropped upon death",
 			"jarName": "LootProtect.jar",
 			"configName": "LootProtect"
-		}
+		},
+		{	"name": "UberEnchant"
+		 	"desc": "adds more levels"
+		 	"jarName": "UberEnchant.jar"
+		 	"configName": "UberEnchant"
 	]
 }

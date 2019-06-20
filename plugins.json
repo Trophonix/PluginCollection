@@ -315,6 +315,14 @@
 			"desc": "Protects loot dropped upon death",
 			"jarName": "LootProtect.jar",
 			"configName": "LootProtect"
+		},
+		{
+		        "name": "worldguard",
+			"desc": "Creates areas only certain people can edit",
+			"jarname": "worldguard-bukkit-7.0.0.jar",
+			"configname": "worldguard"
 		}
+			
+	
 	]
 }

@@ -315,6 +315,11 @@
 			"desc": "Protects loot dropped upon death",
 			"jarName": "LootProtect.jar",
 			"configName": "LootProtect"
-		}
+		},
+		{
+			"name" : "HerobrineAI_v3.4.2" ,
+			"desc" : "Spawns A HeroBrine Enity" ,
+			"jarName" : "Herobrine AI" ,
+			"configName" : "HeroBrine" ,
 	]
 }
